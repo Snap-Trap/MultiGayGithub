@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DuncanScene.unity
+    guid: 4cf2bc10164db5548b16b8a943c40d75
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c0c4cac9d95afde48952573959469246, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9463905adc0dfee43bd7f31851b7b677, type: 2}
